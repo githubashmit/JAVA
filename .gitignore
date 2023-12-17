@@ -3,6 +3,10 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+out
+.idea
+JAVA.iml
+
 
 # Other files and folders
 .settings/
